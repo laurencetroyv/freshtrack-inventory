@@ -55,7 +55,7 @@ export default function Home() {
             <span className="label-text">Remember for 30 days</span>
           </label>
           <span className="label-text cursor-pointer text-blue-400">
-            Forgot Password
+            <Link href={"/forgot-password"}>Forgot Password</Link>
           </span>
         </div>
 
