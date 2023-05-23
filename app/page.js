@@ -67,9 +67,9 @@ export default function Home() {
           </button>
         </div>
 
-        <Link href={"/register"}>
+        <Link href={"/create-account"}>
           <p className="text-sm cursor-pointer mt-4">
-            Don&lsquo;t have an account?
+            Don&lsquo;t have an account?{' '}
             <span className="text-blue-400">Sign up</span>
           </p>
         </Link>
