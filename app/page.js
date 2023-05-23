@@ -26,7 +26,7 @@ export default function Home() {
               <span className="label-text">Email</span>
             </label>
             <input
-              type="text"
+              type="email"
               placeholder="Enter your email"
               className="input input-bordered border-2 w-full"
             />
