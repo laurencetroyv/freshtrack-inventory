@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
-import Logo from "../assets/logo.png";
-import Google from "../assets/google.svg";
+import Logo from "../public/logo.png";
+import Google from "../public/google.svg";
 import { useState } from "react";
 import Link from "next/link";
 
